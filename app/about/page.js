@@ -39,7 +39,7 @@ export default function AboutPage() {
       {/* Our Story Section */}
       <section className="container mx-auto px-4 py-16 md:py-24 bg-white rounded-xl shadow-inner">
         <div className="max-w-3xl mx-auto text-center">
-          <h2 className="text-3xl md:text-4xl font-bold mb-4">Our Story 📖</h2>
+          <h2 className="text-3xl md:text-4xl font-bold mb-4">Our Story</h2>
           <p className="text-gray-600 dark:text-gray-300 text-lg mb-6">
             Founded with a passion for connecting people with their ideal living spaces, Amit Soni Real Estate has grown to become a trusted name in the industry. We started with a simple goal: to redefine the real estate experience by putting our clients first. Our journey is built on a foundation of integrity, market expertise, and an unwavering commitment to excellence.
           </p>
