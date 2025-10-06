@@ -6,8 +6,8 @@ const nav = [
   { href: "/", label: "Home" },
   { href: "/about", label: "About" },
   { href: "/properties", label: "Property Listings" },
-  { href: "/services", label: "Services" },
-  { href: "/testimonials", label: "Testimonials" },
+  // { href: "/services", label: "Services" },
+  // { href: "/testimonials", label: "Testimonials" },
 ]
 
 export default function Navbar() {
@@ -29,7 +29,7 @@ export default function Navbar() {
             </Link>
           ))}
         </nav>
-        <Link href="/properties" className="btn-primary h-9 px-4 text-sm">
+        <Link href="/contact" className="btn-primary h-9 px-4 text-sm">
          Contact Us
         </Link>
       </div>
